@@ -1,0 +1,21 @@
+*{
+    margin 0;
+    padding: 0;
+}
+
+.galeriaImagenes{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    row-gap: 10px;
+    column-gap: 10px;
+
+    
+}
+
+.imagen{
+    max-width: 33%
+}
